@@ -1,7 +1,7 @@
  # 👋 Hi, I'm Temitope Oriowo
 
 PhD candidate in Evolutionary Biology, turning genomes into stories 🔬🐟  
-I love analysing genomic datasets (e.g., short reads, long reads, and population genomics) and building reproducible bioinformatics pipelines.  
+I love analysing genomic datasets and building reproducible bioinformatics pipelines.  
 Basically, a DNA detective 🕵️‍♂️ decoding the hidden stories in genomes.  
 
 ---
